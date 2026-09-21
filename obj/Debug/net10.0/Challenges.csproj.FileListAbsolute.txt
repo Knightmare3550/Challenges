@@ -1,0 +1,14 @@
+C:\Users\jaime\OneDrive\Desktop\Challenges\bin\Debug\net10.0\Challenges.exe
+C:\Users\jaime\OneDrive\Desktop\Challenges\bin\Debug\net10.0\Challenges.deps.json
+C:\Users\jaime\OneDrive\Desktop\Challenges\bin\Debug\net10.0\Challenges.runtimeconfig.json
+C:\Users\jaime\OneDrive\Desktop\Challenges\bin\Debug\net10.0\Challenges.dll
+C:\Users\jaime\OneDrive\Desktop\Challenges\bin\Debug\net10.0\Challenges.pdb
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.AssemblyInfoInputs.cache
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.AssemblyInfo.cs
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.dll
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\refint\Challenges.dll
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.pdb
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\Challenges.genruntimeconfig.cache
+C:\Users\jaime\OneDrive\Desktop\Challenges\obj\Debug\net10.0\ref\Challenges.dll
