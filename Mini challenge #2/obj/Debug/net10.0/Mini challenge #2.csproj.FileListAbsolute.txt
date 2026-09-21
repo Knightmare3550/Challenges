@@ -1,0 +1,15 @@
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\bin\Debug\net10.0\Mini challenge #2.exe
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\bin\Debug\net10.0\Mini challenge #2.deps.json
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\bin\Debug\net10.0\Mini challenge #2.runtimeconfig.json
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\bin\Debug\net10.0\Mini challenge #2.dll
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\bin\Debug\net10.0\Mini challenge #2.pdb
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.AssemblyInfoInputs.cache
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.AssemblyInfo.cs
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.sourcelink.json
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.dll
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\refint\Mini challenge #2.dll
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.pdb
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\Mini challenge #2.genruntimeconfig.cache
+C:\Users\jaime\OneDrive\Desktop\Challenges\Mini challenge #2\obj\Debug\net10.0\ref\Mini challenge #2.dll
